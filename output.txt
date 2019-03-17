@@ -1,0 +1,146 @@
+========================
+kawung-01-003.jpg
+bukannitik (score = 0.99491)
+nitik (score = 0.00509)
+kawung-01-003.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Kawung-02-002.jpg
+bukannitik (score = 0.95771)
+nitik (score = 0.04229)
+Kawung-02-002.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Kawung-02-006.jpg
+bukannitik (score = 0.99998)
+nitik (score = 0.00002)
+Kawung-02-006.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Kawung-02-008.jpg
+bukannitik (score = 0.97066)
+nitik (score = 0.02934)
+Kawung-02-008.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+kawung-03-013.jpg
+bukannitik (score = 0.99999)
+nitik (score = 0.00001)
+kawung-03-013.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Lainnya-01-004.jpg
+bukannitik (score = 0.98901)
+nitik (score = 0.01099)
+Lainnya-01-004.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Lainnya-01-007.jpg
+bukannitik (score = 0.98924)
+nitik (score = 0.01076)
+Lainnya-01-007.jpg dideteksi merupakan batik jenis bukannitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-001.jpg
+nitik (score = 0.99662)
+bukannitik (score = 0.00338)
+Nitik-01-001.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-002.jpg
+nitik (score = 0.99651)
+bukannitik (score = 0.00349)
+Nitik-01-002.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-003.jpg
+nitik (score = 0.99920)
+bukannitik (score = 0.00080)
+Nitik-01-003.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-004.jpg
+nitik (score = 0.98814)
+bukannitik (score = 0.01186)
+Nitik-01-004.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-005.jpg
+nitik (score = 0.99999)
+bukannitik (score = 0.00001)
+Nitik-01-005.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-006.jpg
+nitik (score = 0.99852)
+bukannitik (score = 0.00148)
+Nitik-01-006.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-007.jpg
+nitik (score = 0.99928)
+bukannitik (score = 0.00072)
+Nitik-01-007.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-008.jpg
+nitik (score = 0.77482)
+bukannitik (score = 0.22518)
+Nitik-01-008.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+Nitik-01-009.jpg
+nitik (score = 0.99923)
+bukannitik (score = 0.00077)
+Nitik-01-009.jpg dideteksi merupakan batik jenis nitik
+BENAR DETEKSI
+Performa akurasi
+1.0
+=================================
+========================
+output.txt
